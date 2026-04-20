@@ -1,0 +1,51 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*.ipynb~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notebook outputs and local logs
+*.log
+*.tmp
+*.bak
+
+# Generated directories (keep data_prep, but ignore large generated output)
+**/embeddings/*.csv
+**/results/*.png
+**/results/*.csv
+**/saved_lgCL_mods/*.pt
+**/saved_Fu_mods/*.pt
+**/saved_VD_mods/*.pt
+
+# Exclude large pickle files but keep csv
+*.pickle
+*.pkl
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
