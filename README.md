@@ -1,6 +1,6 @@
 # ML_Models
 
-This repository collects the notebook workflows, local code dependencies, and result artifacts used for the PKDL3 modeling work.
+This repository collects the notebook workflows, local code dependencies, and result artifacts used for graph-based DL-ML modeling work for PK parameters prediction and benchmarking.
 
 ## Shared code
 
