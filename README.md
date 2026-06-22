@@ -25,8 +25,3 @@ This repository collects the notebook workflows, local code dependencies, and re
 Local cache file (not required for clean sharing/reproduction):
 
 - `data_prep/df_feature_5620.pickle.pickle`
-
-## Notes
-
-- Keep generated checkpoints, checkpoint caches, and other large intermediates out of Git unless they are part of the deliverable.
-- Use `.gitignore` to avoid accidental commits of notebook caches, Python bytecode, and temporary artifacts.
