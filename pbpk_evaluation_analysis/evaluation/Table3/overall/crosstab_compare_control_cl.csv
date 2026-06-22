@@ -1,0 +1,5 @@
+class,Both acceptable,Prefer v0_baseline_simcyp,Prefer v1_control_minimal,Refinement
+Both acceptable,12,0,1,1
+Prefer v2_CLint,6,1,0,0
+Prefer v3_CLsys,0,3,1,1
+Refinement,5,3,0,7

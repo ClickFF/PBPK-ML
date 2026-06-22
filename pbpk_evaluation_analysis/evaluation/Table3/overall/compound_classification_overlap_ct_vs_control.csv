@@ -1,0 +1,42 @@
+compound_id,class_compare_ct,good_v2,good_v3,class_compare_control,good_control_minimal,PUBCHEM_CID,Name_final,ECCS_new,clearance_group,persistent_unacceptable
+52,Both acceptable,True,True,Both acceptable,True,2118.0,alprazolam,Class2,Metabolism-leaning,False
+172,Both acceptable,True,True,Both acceptable,True,71733.0,bufuralol,Class2,Mixed/Other,False
+177,Refinement,False,False,Refinement,False,644073.0,buprenorphine,Class2,Metabolism-leaning,True
+184,Both acceptable,True,True,Both acceptable,True,2519.0,caffeine,Class2,Mixed/Other,False
+295,Prefer v2_CLint,True,False,Both acceptable,True,84029.0,clarithromycin,Class4,Metabolism-leaning,False
+308,Refinement,False,False,Refinement,False,135398737.0,clozapine,Class2,Mixed/Other,True
+323,Refinement,False,False,Refinement,False,11626560.0,crizotinib,Class2,Renal-leaning,True
+332,Both acceptable,True,True,Both acceptable,True,216210.0,dabigatran,Class3,Renal-leaning,False
+366,Both acceptable,True,True,Prefer v1_control_minimal,True,2995.0,desipramine,Class2,Renal-leaning,False
+394,Prefer v3_CLsys,False,True,Refinement,False,2724385.0,digoxin,Class4,Uptake/Biliary-influenced,False
+413,Refinement,False,False,Refinement,False,148124.0,docetaxel,,Uptake/Biliary-influenced,True
+471,Refinement,False,False,Both acceptable,True,12560.0,erythromycin,Class4,Metabolism-leaning,False
+488,Prefer v3_CLsys,False,True,Prefer v0_baseline_simcyp,False,123619.0,etoricoxib,Class2,Mixed/Other,False
+637,Both acceptable,True,True,Both acceptable,True,3696.0,imipramine,Class2,Mixed/Other,False
+674,Refinement,False,False,Prefer v0_baseline_simcyp,False,3793.0,itraconazole,Class2,Metabolism-leaning,False
+703,Both acceptable,True,True,Refinement,False,3883.0,lansoprazole,Class2,Mixed/Other,False
+739,Prefer v3_CLsys,False,True,Prefer v0_baseline_simcyp,False,3958.0,lorazepam,Class2,Mixed/Other,False
+781,Both acceptable,True,True,Both acceptable,True,4091.0,metformin,Class4,Renal-leaning,False
+787,Refinement,False,False,Refinement,False,126941.0,methotrexate,Class3,Metabolism-leaning,True
+800,Both acceptable,True,True,Both acceptable,True,4171.0,metoprolol,Class2,Mixed/Other,False
+811,Both acceptable,True,True,Both acceptable,True,4192.0,midazolam,Class2,Metabolism-leaning,False
+832,Refinement,False,False,Prefer v0_baseline_simcyp,False,5281040.0,montelukast,Class1,Mixed/Other,False
+875,Both acceptable,True,True,Both acceptable,True,4485.0,nifedipine,Class2,Metabolism-leaning,False
+907,Prefer v3_CLsys,False,True,Prefer v1_control_minimal,True,4595.0,ondansetron,Class2,Mixed/Other,False
+938,Refinement,False,False,Refinement,False,43815.0,paroxetine,Class2,Mixed/Other,True
+963,Prefer v2_CLint,True,False,Both acceptable,True,4754.0,phenacetin,Class2,Mixed/Other,False
+967,Both acceptable,True,True,Both acceptable,True,4763.0,phenobarbital,Class1,Mixed/Other,False
+973,Both acceptable,True,True,Both acceptable,True,1775.0,phenytoin,,Mixed/Other,False
+1001,Prefer v2_CLint,True,False,Prefer v0_baseline_simcyp,False,57417226.0,posaconazole,Class4,Uptake/Biliary-influenced,False
+1009,Refinement,False,False,Both acceptable,True,54687.0,pravastatin ,Class3,Uptake/Biliary-influenced,False
+1018,Prefer v2_CLint,True,False,Both acceptable,True,4911.0,probenecid,Class1,Mixed/Other,False
+1041,Both acceptable,True,True,Both acceptable,True,441074.0,quinidine,Class2,Metabolism-leaning,False
+1094,Refinement,False,False,Both acceptable,True,77999.0,rosiglitazone,Class1,Mixed/Other,False
+1095,Refinement,False,False,Both acceptable,True,446157.0,rosuvastatin,Class3,Uptake/Biliary-influenced,False
+1197,Prefer v3_CLsys,False,True,Prefer v0_baseline_simcyp,False,464205.0,tenofovir,Class3,Mixed/Other,False
+1245,Prefer v2_CLint,True,False,Both acceptable,True,5505.0,tolbutamide,Class1,Mixed/Other,False
+1293,Refinement,False,False,Refinement,False,60846.0,valsartan,Class3,Uptake/Biliary-influenced,True
+1300,Refinement,False,False,Prefer v0_baseline_simcyp,False,2520.0,verapamil,Class2,Metabolism-leaning,False
+1319,Prefer v2_CLint,True,False,Both acceptable,True,71616.0,voriconazole,Class2,Mixed/Other,False
+1323,Refinement,False,False,Both acceptable,True,54678486.0,warfarin,Class1,Mixed/Other,False
+1341,Prefer v2_CLint,True,False,Both acceptable,True,35370.0,zidovudine,Class2,Renal-leaning,False

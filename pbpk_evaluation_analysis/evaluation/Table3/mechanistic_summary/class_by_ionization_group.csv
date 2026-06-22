@@ -1,0 +1,6 @@
+ionization_group,Both acceptable,Prefer v2_CLint,Prefer v3_CLsys,Refinement
+Acidic,4,3,2,5
+Basic,7,2,1,4
+Zwitterion,1,0,1,2
+Multiprotic/Other,1,1,1,3
+Neutral/Other,1,1,0,1

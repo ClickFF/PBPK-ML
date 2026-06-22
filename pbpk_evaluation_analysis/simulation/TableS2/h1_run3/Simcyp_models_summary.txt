@@ -1,0 +1,2009 @@
+===== Workspace: 52.wksz =====
+[2025-12-03 22:58:03]
+---------------------------------------------------------------------------
+
+Workspace: 52.wksz
+
+
+Substrate: Alprazolam
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.014000
+
+Dose scaling: mg/kg
+
+Dose Interval: 8.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 172.wksz =====
+[2025-12-03 22:58:10]
+---------------------------------------------------------------------------
+
+Workspace: 172.wksz
+
+
+Substrate: Bufuralol
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.286000
+
+Infusion Duration: 2.000000
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 177.wksz =====
+[2025-12-03 22:58:31]
+---------------------------------------------------------------------------
+
+Workspace: 177.wksz
+
+
+Substrate: Buprenorphine
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.017000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 184.wksz =====
+[2025-12-03 22:59:07]
+---------------------------------------------------------------------------
+
+Workspace: 184.wksz
+
+
+Substrate: Caffeine
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 5.000000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 295.wksz =====
+[2025-12-03 23:00:00]
+---------------------------------------------------------------------------
+
+Workspace: 295.wksz
+
+
+Substrate: Clarithromycin
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 3.571000
+
+Infusion Duration: 0.750000
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 308.wksz =====
+[2025-12-03 23:00:14]
+---------------------------------------------------------------------------
+
+Workspace: 308.wksz
+
+
+Substrate: Clozapine
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.357000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 323.wksz =====
+[2025-12-03 23:00:21]
+---------------------------------------------------------------------------
+
+Workspace: 323.wksz
+
+
+Substrate: Crizotinib
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.714000
+
+Dose scaling: mg/kg
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 332.wksz =====
+[2025-12-03 23:00:28]
+---------------------------------------------------------------------------
+
+Workspace: 332.wksz
+
+
+Substrate: Dabigatran
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.071000
+
+Infusion Duration: 0.500000
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 366.wksz =====
+[2025-12-03 23:00:36]
+---------------------------------------------------------------------------
+
+Workspace: 366.wksz
+
+
+Substrate: Desipramine
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.179000
+
+Infusion Duration: 0.500000
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 394.wksz =====
+[2025-12-03 23:00:44]
+---------------------------------------------------------------------------
+
+Workspace: 394.wksz
+
+
+Substrate: Digoxin
+
+Absorption model: ADAM
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.007000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 413.wksz =====
+[2025-12-03 23:01:10]
+---------------------------------------------------------------------------
+
+Workspace: 413.wksz
+
+
+Substrate: Docetaxel
+
+Absorption model: ADAM
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 2.470000
+
+Infusion Duration: 1.000000
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 471.wksz =====
+[2025-12-03 23:01:20]
+---------------------------------------------------------------------------
+
+Workspace: 471.wksz
+
+
+Substrate: Erythromycin
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 7.143000
+
+Infusion Duration: 0.500000
+
+Dose Interval: 6.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 488.wksz =====
+[2025-12-03 23:01:28]
+---------------------------------------------------------------------------
+
+Workspace: 488.wksz
+
+
+Substrate: Etoricoxib
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.357000
+
+Dose scaling: mg/kg
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 637.wksz =====
+[2025-12-03 23:02:02]
+---------------------------------------------------------------------------
+
+Workspace: 637.wksz
+
+
+Substrate: Imipramine
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.714000
+
+Dose scaling: mg/kg
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 674.wksz =====
+[2025-12-03 23:02:11]
+---------------------------------------------------------------------------
+
+Workspace: 674.wksz
+
+
+Substrate: Itraconazole_Fasted Soln
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 1.429000
+
+Infusion Duration: 1.000000
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 703.wksz =====
+[2025-12-03 23:02:20]
+---------------------------------------------------------------------------
+
+Workspace: 703.wksz
+
+
+Substrate: Lansoprazole
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.214000
+
+Infusion Duration: 0.166700
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 739.wksz =====
+[2025-12-03 23:03:14]
+---------------------------------------------------------------------------
+
+Workspace: 739.wksz
+
+
+Substrate: Lorazepam
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.029000
+
+Infusion Duration: 0.083300
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 781.wksz =====
+[2025-12-03 23:03:23]
+---------------------------------------------------------------------------
+
+Workspace: 781.wksz
+
+
+Substrate: Metformin
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 7.143000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 787.wksz =====
+[2025-12-03 23:03:31]
+---------------------------------------------------------------------------
+
+Workspace: 787.wksz
+
+
+Substrate: Methotrexate
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 1.236000
+
+Dose scaling: mg/kg
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 800.wksz =====
+[2025-12-03 23:03:39]
+---------------------------------------------------------------------------
+
+Workspace: 800.wksz
+
+
+Substrate: Metoprolol
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.286000
+
+Infusion Duration: 0.166700
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 811.wksz =====
+[2025-12-03 23:03:48]
+---------------------------------------------------------------------------
+
+Workspace: 811.wksz
+
+
+Substrate: Midazolam
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.163000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 832.wksz =====
+[2025-12-03 23:03:55]
+---------------------------------------------------------------------------
+
+Workspace: 832.wksz
+
+
+Substrate: Montelukast
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.100000
+
+Dose scaling: mg/kg
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 875.wksz =====
+[2025-12-03 23:04:10]
+---------------------------------------------------------------------------
+
+Workspace: 875.wksz
+
+
+Substrate: Nifedipine
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.036000
+
+Dose scaling: mg/kg
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 907.wksz =====
+[2025-12-03 23:04:50]
+---------------------------------------------------------------------------
+
+Workspace: 907.wksz
+
+
+Substrate: Ondansetron
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.150000
+
+Infusion Duration: 0.250000
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 938.wksz =====
+[2025-12-03 23:04:59]
+---------------------------------------------------------------------------
+
+Workspace: 938.wksz
+
+
+Substrate: Paroxetine
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.320000
+
+Infusion Duration: 0.500000
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 963.wksz =====
+[2025-12-03 23:05:09]
+---------------------------------------------------------------------------
+
+Workspace: 963.wksz
+
+
+Substrate: Phenacetin
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 3.571000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 967.wksz =====
+[2025-12-03 23:05:32]
+---------------------------------------------------------------------------
+
+Workspace: 967.wksz
+
+
+Substrate: Phenobarbital
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 1.857000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 973.wksz =====
+[2025-12-03 23:05:46]
+---------------------------------------------------------------------------
+
+Workspace: 973.wksz
+
+
+Substrate: Phenytoin ER
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 4.286000
+
+Infusion Duration: 0.100000
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1001.wksz =====
+[2025-12-03 23:06:06]
+---------------------------------------------------------------------------
+
+Workspace: 1001.wksz
+
+
+Substrate: Posaconazole DR Tablet
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 4.286000
+
+Infusion Duration: 1.500000
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1009.wksz =====
+[2025-12-03 23:06:20]
+---------------------------------------------------------------------------
+
+Workspace: 1009.wksz
+
+
+Substrate: Pravastatin
+
+Absorption model: ADAM
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.141000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1018.wksz =====
+[2025-12-03 23:06:48]
+---------------------------------------------------------------------------
+
+Workspace: 1018.wksz
+
+
+Substrate: Probenecid
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 40.000000
+
+Infusion Duration: 1.000000
+
+Dose Interval: 6.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1041.wksz =====
+[2025-12-03 23:07:03]
+---------------------------------------------------------------------------
+
+Workspace: 1041.wksz
+
+
+Substrate: Quinidine
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 4.631000
+
+Infusion Duration: 1.000000
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1094.wksz =====
+[2025-12-03 23:07:10]
+---------------------------------------------------------------------------
+
+Workspace: 1094.wksz
+
+
+Substrate: Rosiglitazone
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.029000
+
+Infusion Duration: 0.100000
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1095.wksz =====
+[2025-12-03 23:07:23]
+---------------------------------------------------------------------------
+
+Workspace: 1095.wksz
+
+
+Substrate: Rosuvastatin
+
+Absorption model: ADAM
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 0.114000
+
+Infusion Duration: 4.000000
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1197.wksz =====
+[2025-12-03 23:07:52]
+---------------------------------------------------------------------------
+
+Workspace: 1197.wksz
+
+
+Substrate: Tenofovir
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 3.000000
+
+Infusion Duration: 1.000000
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1245.wksz =====
+[2025-12-03 23:08:01]
+---------------------------------------------------------------------------
+
+Workspace: 1245.wksz
+
+
+Substrate: Tolbutamide
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 22.857000
+
+Infusion Duration: 0.333000
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1293.wksz =====
+[2025-12-03 23:08:14]
+---------------------------------------------------------------------------
+
+Workspace: 1293.wksz
+
+
+Substrate: Valsartan
+
+Absorption model: ADAM
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.286000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1300.wksz =====
+[2025-12-03 23:08:26]
+---------------------------------------------------------------------------
+
+Workspace: 1300.wksz
+
+
+Substrate: Verapamil_IR
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.286000
+
+Dose scaling: mg/kg
+
+Dose Interval: 8.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1319.wksz =====
+[2025-12-03 23:08:34]
+---------------------------------------------------------------------------
+
+Workspace: 1319.wksz
+
+
+Substrate: Voriconazole
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 3.000000
+
+Infusion Duration: 1.000000
+
+Dose Interval: 12.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1323.wksz =====
+[2025-12-03 23:08:43]
+---------------------------------------------------------------------------
+
+Workspace: 1323.wksz
+
+
+Substrate: S-Warfarin
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V.
+
+Dose: 0.571000
+
+Dose scaling: mg/kg
+
+Dose Interval: 24.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
+===== Workspace: 1341.wksz =====
+[2025-12-03 23:08:56]
+---------------------------------------------------------------------------
+
+Workspace: 1341.wksz
+
+
+Substrate: Zidovudine
+
+Absorption model: First order
+
+Distribution model: Minimal PBPK Model
+
+Elimination: In vivo clearance
+
+Route of administration: I.V. Infusion
+
+Dose: 2.857000
+
+Infusion Duration: 1.500000
+
+Dose Interval: 8.000000
+
+Dose Type: Single dose
+
+
+
+Population: Healthy Volunteers
+
+Age Min: 20.000000
+
+Age Max: 50.000000
+
+Proportion of females: 0.500000
+
+Study duration: 48.000000
+
+Population Type: Virtual population
+
+Number Population: 100
+
+Number Group: 10
+
+Number Group Members: 10
+
+SetWorkspace Succeeded
+
+
+
