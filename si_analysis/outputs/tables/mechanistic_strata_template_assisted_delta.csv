@@ -1,0 +1,73 @@
+stratum,variable,cls,endpoint,endpoint_col,n,median,hl,ci_low,ci_high,p_wilcoxon,n_positive,n_negative,p_kruskal,p_holm
+ECCS class (S+),ECCS_class,Class 1,C–T log-NRMSE,log_NRMSE,5,-0.0864,-0.0223,-0.1720,0.1496,0.6250,2,3,0.8474,1.0000
+ECCS class (S+),ECCS_class,Class 2,C–T log-NRMSE,log_NRMSE,22,-0.0302,-0.0221,-0.0606,0.0125,0.2099,8,14,0.8474,0.8397
+ECCS class (S+),ECCS_class,Class 3,C–T log-NRMSE,log_NRMSE,6,-0.0057,0.0158,-0.0614,0.0836,1.0000,3,3,0.8474,1.0000
+ECCS class (S+),ECCS_class,Class 4,C–T log-NRMSE,log_NRMSE,5,-0.0170,0.0096,-0.2435,0.3032,1.0000,2,3,0.8474,1.0000
+ECCS class (S+),ECCS_class,Class 1,C–T RMSE (log₁₀),rmse_log10,6,0.0106,0.0658,-0.1675,0.2439,0.5625,3,3,0.8536,1.0000
+ECCS class (S+),ECCS_class,Class 2,C–T RMSE (log₁₀),rmse_log10,22,-0.0397,-0.0397,-0.0933,0.0252,0.2221,7,15,0.8536,0.8884
+ECCS class (S+),ECCS_class,Class 3,C–T RMSE (log₁₀),rmse_log10,6,0.0119,0.0502,-0.0884,0.2087,0.6875,3,3,0.8536,1.0000
+ECCS class (S+),ECCS_class,Class 4,C–T RMSE (log₁₀),rmse_log10,5,-0.0317,-0.0317,-0.2949,0.2648,1.0000,2,3,0.8536,1.0000
+ECCS class (S+),ECCS_class,Class 1,AUC |log₂ FE|,fe_auc_abs,6,0.1911,0.1911,-0.3554,0.6116,0.6875,3,3,0.6784,1.0000
+ECCS class (S+),ECCS_class,Class 2,AUC |log₂ FE|,fe_auc_abs,22,-0.1294,-0.1049,-0.3642,0.1821,0.5028,9,13,0.6784,1.0000
+ECCS class (S+),ECCS_class,Class 3,AUC |log₂ FE|,fe_auc_abs,6,-0.1357,-0.1357,-0.5363,0.0223,0.3125,2,4,0.6784,1.0000
+ECCS class (S+),ECCS_class,Class 4,AUC |log₂ FE|,fe_auc_abs,5,-0.4603,-0.3100,-1.4710,0.8583,0.6250,2,3,0.6784,1.0000
+ECCS class (S+),ECCS_class,Class 1,Cmax |log₂ FE|,fe_cmax_abs,6,-0.0112,-0.0137,-0.0222,-0.0028,0.0938,1,5,0.6707,0.3750
+ECCS class (S+),ECCS_class,Class 2,Cmax |log₂ FE|,fe_cmax_abs,22,0.0072,0.0065,-0.0275,0.0474,0.7024,13,9,0.6707,1.0000
+ECCS class (S+),ECCS_class,Class 3,Cmax |log₂ FE|,fe_cmax_abs,6,-0.0254,-0.0370,-0.0867,0.0179,0.3125,2,4,0.6707,0.9375
+ECCS class (S+),ECCS_class,Class 4,Cmax |log₂ FE|,fe_cmax_abs,5,0.0495,-0.0840,-0.7531,0.1598,0.8125,3,2,0.6707,1.0000
+Clearance group,clearance_group,Metabolism-leaning,C–T log-NRMSE,log_NRMSE,10,0.0028,-0.0085,-0.0646,0.0765,0.9219,5,5,0.7364,1.0000
+Clearance group,clearance_group,Renal-leaning,C–T log-NRMSE,log_NRMSE,5,-0.0490,-0.0662,-0.1628,0.0039,0.1875,1,4,0.7364,0.7500
+Clearance group,clearance_group,Uptake/Biliary-influenced,C–T log-NRMSE,log_NRMSE,6,-0.0259,-0.0126,-0.2044,0.1882,1.0000,2,4,0.7364,1.0000
+Clearance group,clearance_group,Mixed/Other,C–T log-NRMSE,log_NRMSE,19,-0.0245,-0.0035,-0.0611,0.0890,0.9217,8,11,0.7364,1.0000
+Clearance group,clearance_group,Metabolism-leaning,C–T RMSE (log₁₀),rmse_log10,10,0.0069,-0.0027,-0.1019,0.1136,1.0000,5,5,0.5872,1.0000
+Clearance group,clearance_group,Renal-leaning,C–T RMSE (log₁₀),rmse_log10,5,-0.0425,-0.1421,-0.2979,-0.0033,0.1250,1,4,0.5872,0.5000
+Clearance group,clearance_group,Uptake/Biliary-influenced,C–T RMSE (log₁₀),rmse_log10,6,-0.0557,-0.0325,-0.1910,0.1593,1.0000,2,4,0.5872,1.0000
+Clearance group,clearance_group,Mixed/Other,C–T RMSE (log₁₀),rmse_log10,20,-0.0228,0.0330,-0.0680,0.1478,0.5958,8,12,0.5872,1.0000
+Clearance group,clearance_group,Metabolism-leaning,AUC |log₂ FE|,fe_auc_abs,10,-0.0494,0.0106,-0.4104,0.4585,0.9219,5,5,0.1531,1.0000
+Clearance group,clearance_group,Renal-leaning,AUC |log₂ FE|,fe_auc_abs,5,0.0267,-0.1532,-0.6330,0.1777,0.8125,3,2,0.1531,1.0000
+Clearance group,clearance_group,Uptake/Biliary-influenced,AUC |log₂ FE|,fe_auc_abs,6,-0.5382,-0.7619,-1.2454,-0.1376,0.0312,0,6,0.1531,0.1250
+Clearance group,clearance_group,Mixed/Other,AUC |log₂ FE|,fe_auc_abs,20,-0.0246,0.0838,-0.1990,0.3826,0.6215,9,11,0.1531,1.0000
+Clearance group,clearance_group,Metabolism-leaning,Cmax |log₂ FE|,fe_cmax_abs,10,-0.0004,0.0053,-0.0430,0.0810,0.9219,5,5,0.3823,1.0000
+Clearance group,clearance_group,Renal-leaning,Cmax |log₂ FE|,fe_cmax_abs,5,0.0495,0.0495,-0.1913,0.2366,1.0000,3,2,0.3823,1.0000
+Clearance group,clearance_group,Uptake/Biliary-influenced,Cmax |log₂ FE|,fe_cmax_abs,6,-0.0254,-0.1392,-0.6318,-0.0037,0.1562,2,4,0.3823,0.6250
+Clearance group,clearance_group,Mixed/Other,Cmax |log₂ FE|,fe_cmax_abs,20,0.0035,0.0068,-0.0180,0.0426,0.5459,11,9,0.3823,1.0000
+Ionization at pH 7.4,ionization_pH74,Acid (ionized),C–T log-NRMSE,log_NRMSE,6,0.0147,0.0132,-0.1350,0.1496,1.0000,3,3,0.5660,1.0000
+Ionization at pH 7.4,ionization_pH74,Base (ionized),C–T log-NRMSE,log_NRMSE,12,-0.0402,-0.0331,-0.0572,0.0179,0.2036,3,9,0.5660,0.6108
+Ionization at pH 7.4,ionization_pH74,Ampholyte,C–T log-NRMSE,log_NRMSE,4,-0.0568,-0.0561,-0.0864,-0.0245,0.1250,0,4,0.5660,0.5000
+Ionization at pH 7.4,ionization_pH74,Neutral at pH 7.4,C–T log-NRMSE,log_NRMSE,18,0.0216,0.0136,-0.0844,0.1526,0.6397,10,8,0.5660,1.0000
+Ionization at pH 7.4,ionization_pH74,Acid (ionized),C–T RMSE (log₁₀),rmse_log10,7,0.1351,0.1116,-0.1213,0.3239,0.2969,4,3,0.5497,0.7002
+Ionization at pH 7.4,ionization_pH74,Base (ionized),C–T RMSE (log₁₀),rmse_log10,12,-0.0561,-0.0499,-0.0839,0.0269,0.2334,3,9,0.5497,0.7002
+Ionization at pH 7.4,ionization_pH74,Ampholyte,C–T RMSE (log₁₀),rmse_log10,4,-0.0782,-0.0787,-0.1322,-0.0262,0.1250,0,4,0.5497,0.5000
+Ionization at pH 7.4,ionization_pH74,Neutral at pH 7.4,C–T RMSE (log₁₀),rmse_log10,18,0.0217,0.0217,-0.1136,0.1138,0.7987,9,9,0.5497,0.7987
+Ionization at pH 7.4,ionization_pH74,Acid (ionized),AUC |log₂ FE|,fe_auc_abs,7,-0.0026,0.2111,-0.1363,0.6116,0.5781,3,4,0.2808,1.0000
+Ionization at pH 7.4,ionization_pH74,Base (ionized),AUC |log₂ FE|,fe_auc_abs,12,-0.0222,0.0690,-0.2862,0.3929,0.9697,6,6,0.2808,1.0000
+Ionization at pH 7.4,ionization_pH74,Ampholyte,AUC |log₂ FE|,fe_auc_abs,4,-0.3493,-0.3450,-0.7082,0.0267,0.2500,1,3,0.2808,0.9848
+Ionization at pH 7.4,ionization_pH74,Neutral at pH 7.4,AUC |log₂ FE|,fe_auc_abs,18,-0.1789,-0.2838,-0.6634,0.2005,0.2462,7,11,0.2808,0.9848
+Ionization at pH 7.4,ionization_pH74,Acid (ionized),Cmax |log₂ FE|,fe_cmax_abs,7,-0.0120,-0.0214,-0.0325,-0.0086,0.0156,0,7,0.0360,0.0625
+Ionization at pH 7.4,ionization_pH74,Base (ionized),Cmax |log₂ FE|,fe_cmax_abs,12,0.0454,0.0509,0.0108,0.1234,0.0425,10,2,0.0360,0.1274
+Ionization at pH 7.4,ionization_pH74,Ampholyte,Cmax |log₂ FE|,fe_cmax_abs,4,0.0028,0.0018,-0.0779,0.0123,0.8750,3,1,0.0360,0.8750
+Ionization at pH 7.4,ionization_pH74,Neutral at pH 7.4,Cmax |log₂ FE|,fe_cmax_abs,18,-0.0210,-0.0216,-0.1338,0.0253,0.3927,8,10,0.0360,0.7855
+logP bin,logP_bin,<2,C–T log-NRMSE,log_NRMSE,11,-0.0490,-0.0610,-0.1624,0.0329,0.2402,3,8,0.3494,0.7207
+logP bin,logP_bin,2–4,C–T log-NRMSE,log_NRMSE,22,-0.0302,-0.0064,-0.0529,0.0655,0.8237,9,13,0.3494,1.0000
+logP bin,logP_bin,>4,C–T log-NRMSE,log_NRMSE,7,0.0227,0.0173,-0.0399,0.1892,0.5781,4,3,0.3494,1.0000
+logP bin,logP_bin,<2,C–T RMSE (log₁₀),rmse_log10,12,-0.0371,-0.0623,-0.1779,0.0734,0.4697,4,8,0.6460,1.0000
+logP bin,logP_bin,2–4,C–T RMSE (log₁₀),rmse_log10,22,-0.0401,0.0024,-0.0732,0.1193,0.9746,8,14,0.6460,1.0000
+logP bin,logP_bin,>4,C–T RMSE (log₁₀),rmse_log10,7,0.0251,0.0310,-0.0807,0.1601,0.6875,4,3,0.6460,1.0000
+logP bin,logP_bin,<2,AUC |log₂ FE|,fe_auc_abs,12,-0.1321,-0.1362,-0.6330,0.3177,0.5186,5,7,0.6566,1.0000
+logP bin,logP_bin,2–4,AUC |log₂ FE|,fe_auc_abs,22,-0.1153,-0.0081,-0.2399,0.2800,0.9746,9,13,0.6566,1.0000
+logP bin,logP_bin,>4,AUC |log₂ FE|,fe_auc_abs,7,-0.3265,-0.2127,-0.7369,0.2015,0.4688,3,4,0.6566,1.0000
+logP bin,logP_bin,<2,Cmax |log₂ FE|,fe_cmax_abs,12,0.0146,-0.0101,-0.1276,0.0482,0.9097,7,5,0.9181,1.0000
+logP bin,logP_bin,2–4,Cmax |log₂ FE|,fe_cmax_abs,22,-0.0060,-0.0050,-0.0269,0.0407,0.7262,10,12,0.9181,1.0000
+logP bin,logP_bin,>4,Cmax |log₂ FE|,fe_cmax_abs,7,0.0008,0.0060,-0.6064,0.2082,0.9375,4,3,0.9181,1.0000
+VDss bin,VDss_bin,Low (<0.7),C–T log-NRMSE,log_NRMSE,12,-0.0057,0.0139,-0.0837,0.2452,0.9697,6,6,0.4130,1.0000
+VDss bin,VDss_bin,Mid (0.7–2),C–T log-NRMSE,log_NRMSE,15,-0.0148,0.0037,-0.0511,0.0607,0.8469,7,8,0.4130,1.0000
+VDss bin,VDss_bin,High (>2),C–T log-NRMSE,log_NRMSE,13,-0.0491,-0.0447,-0.0992,0.0039,0.0803,3,10,0.4130,0.2410
+VDss bin,VDss_bin,Low (<0.7),C–T RMSE (log₁₀),rmse_log10,13,0.0662,0.0804,-0.1000,0.2094,0.3396,7,6,0.2434,0.6792
+VDss bin,VDss_bin,Mid (0.7–2),C–T RMSE (log₁₀),rmse_log10,15,-0.0194,0.0159,-0.0651,0.1393,0.8040,6,9,0.2434,0.8040
+VDss bin,VDss_bin,High (>2),C–T RMSE (log₁₀),rmse_log10,13,-0.0716,-0.0681,-0.1515,-0.0131,0.0398,3,10,0.2434,0.1194
+VDss bin,VDss_bin,Low (<0.7),AUC |log₂ FE|,fe_auc_abs,13,-0.0026,0.1330,-0.2263,0.5741,0.6355,6,7,0.0335,1.0000
+VDss bin,VDss_bin,Mid (0.7–2),AUC |log₂ FE|,fe_auc_abs,15,0.0267,0.0696,-0.2763,0.4070,0.5995,8,7,0.0335,1.0000
+VDss bin,VDss_bin,High (>2),AUC |log₂ FE|,fe_auc_abs,13,-0.3447,-0.4237,-0.8472,-0.1400,0.0061,3,10,0.0335,0.0183
+VDss bin,VDss_bin,Low (<0.7),Cmax |log₂ FE|,fe_cmax_abs,13,-0.0104,-0.0064,-0.0269,0.0188,0.3757,5,8,0.5170,1.0000
+VDss bin,VDss_bin,Mid (0.7–2),Cmax |log₂ FE|,fe_cmax_abs,15,-0.0396,-0.0139,-0.0779,0.0469,0.6788,7,8,0.5170,1.0000
+VDss bin,VDss_bin,High (>2),Cmax |log₂ FE|,fe_cmax_abs,13,0.0121,0.0138,-0.1291,0.0772,0.3396,9,4,0.5170,1.0000

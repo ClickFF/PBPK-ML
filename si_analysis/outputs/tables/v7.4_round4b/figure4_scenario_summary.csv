@@ -1,0 +1,8 @@
+scenario,label,n_log_NRMSE,median_log_NRMSE,n_fe_auc_rel,median_fe_auc_rel,within2_fe_auc_rel,median_fold_fe_auc_rel,n_fe_cmax_rel,median_fe_cmax_rel,within2_fe_cmax_rel,median_fold_fe_cmax_rel
+v1_run0,Observed-input control,40,0.1702,41,0.3114,82.9268,1.2409,41,-0.3965,70.7317,0.7597
+s1_run1,S+ physicochemical inputs,40,0.1703,41,0.3456,85.3659,1.2707,41,-0.3963,70.7317,0.7598
+s1_run2,S+ physicochemical inputs + f$_u$,40,0.1703,41,0.3456,85.3659,1.2707,41,-0.3963,70.7317,0.7598
+s1_run3,S+ physicochemical inputs + f$_u$ + VD$_{ss}$,40,0.1797,41,0.3461,82.9268,1.2712,41,-0.4726,75.6098,0.7207
+h1_run0_noCLr,"S+ CL$_{int}$, renal CL = 0",40,0.3018,41,0.4377,46.3415,1.3545,41,-0.4807,70.7317,0.7166
+h2_run4,DL–ML CL$_{sys}$,40,0.2619,41,0.4640,43.9024,1.3794,41,-0.4784,68.2927,0.7178
+h2_run0,"DL–ML f$_u$, VD$_{ss}$ and CL$_{sys}$",40,0.2873,41,0.4170,41.4634,1.3351,41,-0.6068,58.5366,0.6566

@@ -1,0 +1,7 @@
+endpoint,set,N_curated,N_plotted,R2
+Fu,Training set,4042,4042,0.8645
+Fu,Held-out test set,633,633,0.6625
+CL,Training set,1287,1284,0.7509
+CL,Held-out test set,177,177,0.5051
+VDss,Training set,1287,1284,0.8031
+VDss,Held-out test set,177,177,0.5780

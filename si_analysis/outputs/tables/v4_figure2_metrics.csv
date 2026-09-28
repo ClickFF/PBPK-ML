@@ -1,0 +1,7 @@
+endpoint,set,N,R2,RMSE,GMFE,within2
+Fu,Training set,4042,0.8645,0.2827,1.5567,0.8112
+Fu,Held-out test set,633,0.6625,0.4712,2.1897,0.5814
+CL,Training set,1284,0.7509,0.3390,1.6547,0.7734
+CL,Held-out test set,177,0.5051,0.4088,1.9938,0.6497
+VDss,Training set,1284,0.8031,0.3113,1.5731,0.8162
+VDss,Held-out test set,177,0.5780,0.3591,1.9025,0.6441

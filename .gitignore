@@ -1,0 +1,54 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*.ipynb~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and scratch
+*.log
+*.tmp
+*.bak
+
+# Generated output. The published encoders in ml/weights/ are tracked deliberately -- they are a
+# deliverable, not build output -- so only the training run's own checkpoint directories are ignored.
+**/saved_lgCL_mods/*.pt
+**/saved_Fu_mods/*.pt
+**/saved_lgFu_mods/*.pt
+**/saved_VD_mods/*.pt
+**/saved_lgVD_mods/*.pt
+ml/embeddings/*.csv
+!ml/weights/*.pt
+
+# Large pickles
+*.pickle
+*.pkl
+
+# Simcyp workspaces are Certara-derived and are not redistributed
+*.wksz
+
+# Editors
+.vscode/
+*.code-workspace
+.idea/
+*.swp
+*.swo
+*~

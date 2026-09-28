@@ -1,0 +1,13 @@
+parameter,exposure,n,rho,abs_rho,p
+Fu,"AUC, signed log2 FE",41,0.0167,0.0167,0.9173
+Fu,"Cmax, signed log2 FE",41,-0.2828,0.2828,0.0733
+Fu,"C–T, log-NRMSE",40,0.1786,0.1786,0.2702
+Fu,"C–T, RMSE log10",41,0.0911,0.0911,0.5710
+CLsys,"AUC, signed log2 FE",41,-0.9436,0.9436,0.0000
+CLsys,"Cmax, signed log2 FE",41,-0.5772,0.5772,0.0001
+CLsys,"C–T, log-NRMSE",40,0.7109,0.7109,0.0000
+CLsys,"C–T, RMSE log10",41,0.6545,0.6545,0.0000
+VDss,"AUC, signed log2 FE",41,-0.6815,0.6815,0.0000
+VDss,"Cmax, signed log2 FE",41,-0.7441,0.7441,0.0000
+VDss,"C–T, log-NRMSE",40,0.1028,0.1028,0.5278
+VDss,"C–T, RMSE log10",41,0.4200,0.4200,0.0063

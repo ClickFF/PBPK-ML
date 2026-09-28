@@ -1,0 +1,13 @@
+endpoint,split,n,expected,matches_table1,file
+fu,train1,4042,4042,True,fu_train1.csv
+fu,test1,633,633,True,fu_test1.csv
+fu,train2,4585,4585,True,fu_train2.csv
+fu,test2,90,90,True,fu_test2.csv
+CLsys,train1,1287,1287,True,CLsys_train1.csv
+CLsys,test1,177,177,True,CLsys_test1.csv
+CLsys,train2,1354,1354,True,CLsys_train2.csv
+CLsys,test2,110,110,True,CLsys_test2.csv
+VDss,train1,1287,1287,True,VDss_train1.csv
+VDss,test1,177,177,True,VDss_test1.csv
+VDss,train2,1354,1354,True,VDss_train2.csv
+VDss,test2,110,110,True,VDss_test2.csv

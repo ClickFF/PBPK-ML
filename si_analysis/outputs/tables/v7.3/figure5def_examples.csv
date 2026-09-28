@@ -1,0 +1,4 @@
+compound_id,compound,role,auc_log2_fe,clsys_log2_fe
+1293,Valsartan,most underpredicted AUC,-2.6144,1.3700
+1041,Quinidine,median AUC error,0.4170,-0.5373
+323,Crizotinib,most overpredicted AUC,2.8901,-2.1288

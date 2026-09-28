@@ -1,0 +1,7 @@
+endpoint,set,N_curated,N_plotted,R2,RMSE,GMFE,FE2
+Fu,Training set,4042,4042,0.8645,0.2827,1.5567,81.1232
+Fu,Held-out test set,633,633,0.6625,0.4712,2.1897,58.1359
+CL,Training set,1287,1284,0.7509,0.3390,1.6547,77.3364
+CL,Held-out test set,177,177,0.5051,0.4088,1.9938,64.9718
+VDss,Training set,1287,1284,0.8031,0.3113,1.5731,81.6199
+VDss,Held-out test set,177,177,0.5780,0.3591,1.9025,64.4068

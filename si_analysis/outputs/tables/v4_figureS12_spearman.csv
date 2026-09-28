@@ -1,0 +1,5 @@
+association,n,spearman_rho,ci_low,ci_high,p
+|CL FE| vs C–T RMSE,41,0.6545,0.4558,0.7829,0.0000
+CL FE vs AUC FE,41,-0.9436,-0.9638,-0.8796,0.0000
+VDss FE vs Cmax FE,41,-0.7441,-0.9087,-0.5103,0.0000
+|CL FE| vs C–T log-NRMSE (sensitivity),40,0.7109,0.4553,0.8713,0.0000

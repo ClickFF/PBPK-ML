@@ -1,0 +1,10 @@
+x,y,n,spearman_rho,p,subset
+CLRbase_template_Lh,d_fe_auc_rel,41,-0.8992,0.0000,all 41
+CLRbase_template_Lh,d_fe_auc_rel,34,-0.8775,0.0000,CLRbase > 0
+CLRbase_template_Lh,d_fe_auc_abs,41,-0.3198,0.0415,all 41
+CLRbase_template_Lh,d_fe_auc_abs,34,-0.3699,0.0313,CLRbase > 0
+CLR_frac_of_obsCL,d_fe_auc_rel,41,-0.8909,0.0000,all 41
+CLR_frac_of_obsCL,d_fe_auc_rel,34,-0.8545,0.0000,CLRbase > 0
+CLR_frac_of_obsCL,d_fe_auc_abs,41,-0.0674,0.6754,all 41
+CLR_frac_of_obsCL,d_fe_auc_abs,34,-0.0652,0.7139,CLRbase > 0
+Renal-leaning vs Metabolism-leaning,d_fe_auc_rel,15,,0.4396,median -0.622 (n=5) vs -0.135 (n=10); Mann-Whitney

@@ -1,0 +1,26 @@
+figure,before,after
+FigureS1_ml_descriptive,CL,CL$_{sys}$
+FigureS2_ml_paired_A_vs_CD,CL,CL$_{sys}$
+FigureS3_ml_paired_A_vs_EFG,CL,CL$_{sys}$
+FigureS12_parameter_exposure,|log$_2$ CL fold error|,|log$_2$ CL$_{sys}$ fold error|
+FigureS12_parameter_exposure,log$_2$ CL fold error,log$_2$ CL$_{sys}$ fold error
+FigureS13_cmax_structure,"DL–ML Fu, VDss, CL","DL–ML Fu, VDss, CL$_{sys}$"
+FigureS15_applicability_domain,CL,CL$_{sys}$
+FigureS16_clearance_hierarchy,S+ CLint (renal CL = 0) − DL–ML total CL,S+ CLint (renal CL = 0) − DL–ML CL$_{sys}$
+FigureS16_clearance_hierarchy,Template CLRbase / observed total CL,Template CLRbase / observed CL$_{sys}$
+FigureS_upstream_input_accuracy,Observed CL (L h$^{-1}$ kg$^{-1}$),Observed CL$_{sys}$ (L h$^{-1}$ kg$^{-1}$)
+FigureS_upstream_input_accuracy,DL–ML predicted CL,DL–ML predicted CL$_{sys}$
+FigureS_upstream_input_accuracy,DL–ML CL,DL–ML CL$_{sys}$
+FigureS9_compound_heterogeneity,Observed CL,Observed CL$_{sys}$
+FigureS9_compound_heterogeneity,Predicted CL (median of 4),Predicted clearance (median of 4)
+FigureS9_compound_heterogeneity,"C–T log-NRMSE, observed CL","C–T log-NRMSE, observed CL$_{sys}$"
+FigureS9_compound_heterogeneity,"C–T log-NRMSE, predicted CL (median of 4)","C–T log-NRMSE, predicted clearance (median of 4)"
+FigureS17_ECCS_matched_delta,"Δ error
+(CLint, renal CL 0 − DL–ML CL)","Δ error
+(CLint, renal CL 0 − DL–ML CL$_{sys}$)"
+FigureS18_strata_matched_delta_AUC,"Δ AUC$_{0–t}$ |log$_2$ FE|
+(CLint, renal CL 0 − DL–ML CL)","Δ AUC$_{0–t}$ |log$_2$ FE|
+(CLint, renal CL 0 − DL–ML CL$_{sys}$)"
+FigureS19_ECCS_cost_of_predicted_CL,"Δ error, predicted CL
+− observed CL","Δ error, predicted clearance
+− observed CL$_{sys}$"

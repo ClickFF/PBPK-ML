@@ -1,0 +1,24 @@
+run_id,enabled,others,Fu,VDss,elimination,CLRbase,n,excluded,note
+v0_run0,False,SIMCYP,template,template-defined,template (library enzyme kinetics),template,41,,"PBPK_v0 Simcyp baseline: library files as shipped, nothing applied; needs its own wksz folder"
+v1_run0,True,SIMCYP,obs,entered obs,"in vivo, CL_MetBas = obs CLsys",0,41,,"PBPK_v1 minimal control: observed Fu, Vss, CLsys"
+v1_run4,False,SIMCYP,obs,template-defined,"in vivo, CL_MetBas = obs CLsys",0,41,,full control: TEMPLATE-defined distribution (library Kp scalars); needs its own wksz folder
+s1_run1,True,S+,obs,entered obs,"in vivo, CL_MetBas = obs CLsys",0,41,,sensitivity: S+ physchem only
+s1_run2,True,S+,S+,entered obs,"in vivo, CL_MetBas = obs CLsys",0,41,,sensitivity: + S+ Fu
+s1_run3,True,S+,S+,entered S+,"in vivo, CL_MetBas = obs CLsys",0,41,,sensitivity: + S+ Vss
+h1_run0,True,S+,S+,entered S+,whole-organ CLint = S+ CYP_HLM_CLint,template,41,,"PBPK_V2_CLint: S+ HLM CLint, template CLRbase retained"
+h1_run1,True,S+,S+,Simcyp Kp method 0,whole-organ CLint = S+ CYP_HLM_CLint,template,41,,"bottom-up full, Kp 0, template CLRbase"
+h1_run2,True,S+,S+,Simcyp Kp method 1,whole-organ CLint = S+ CYP_HLM_CLint,template,41,,"bottom-up full, Kp 1, template CLRbase"
+h1_run3,True,S+,S+,Simcyp Kp method 2,whole-organ CLint = S+ CYP_HLM_CLint,template,41,,"bottom-up full, Kp 2, template CLRbase"
+h1_run0_noCLr,True,S+,S+,entered S+,whole-organ CLint = S+ CYP_HLM_CLint,0,41,,"as h1_run0, CLRbase = 0"
+h1_run1_noCLr,True,S+,S+,Simcyp Kp method 0,whole-organ CLint = S+ CYP_HLM_CLint,0,41,,"as h1_run1, CLRbase = 0"
+h1_run2_noCLr,True,S+,S+,Simcyp Kp method 1,whole-organ CLint = S+ CYP_HLM_CLint,0,41,,"as h1_run2, CLRbase = 0"
+h1_run3_noCLr,True,S+,S+,Simcyp Kp method 2,whole-organ CLint = S+ CYP_HLM_CLint,0,41,,"as h1_run3, CLRbase = 0"
+h2_run4,True,S+,S+,entered S+,"in vivo, CL_MetBas = ML CLsys",0,41,,"PBPK_V3_CLsys: S+ Fu, S+ Vss, ML CLsys"
+h2_run0,True,S+,ML,entered ML,"in vivo, CL_MetBas = ML CLsys",0,41,,"PBPK_V4_ML: ML Fu, ML Vss, ML CLsys"
+h2_run1,True,S+,ML,Simcyp Kp method 0,"in vivo, CL_MetBas = ML CLsys",0,41,,"top-down full, Kp 0"
+h2_run2,True,S+,ML,Simcyp Kp method 1,"in vivo, CL_MetBas = ML CLsys",0,41,,"top-down full, Kp 1"
+h2_run3,True,S+,ML,Simcyp Kp method 2,"in vivo, CL_MetBas = ML CLsys",0,41,,"top-down full, Kp 2"
+h3_run0,False,S+,S+,entered S+,whole-organ CLint = ML CLsys retrograde,0,41,,option c: ML CLsys -> retrograde CLint via whole-organ route (scalar NOMINAL)
+h3_run1,False,S+,S+,Simcyp Kp method 0,whole-organ CLint = ML CLsys retrograde,0,41,,"option c, full Kp 0"
+h3_run2,False,S+,S+,Simcyp Kp method 1,whole-organ CLint = ML CLsys retrograde,0,41,,"option c, full Kp 1"
+h3_run3,False,S+,S+,Simcyp Kp method 2,whole-organ CLint = ML CLsys retrograde,0,41,,"option c, full Kp 2"

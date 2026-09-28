@@ -1,0 +1,17 @@
+group,run_id,label,endpoint,test_pct,ref_pct,n_lost,n_gained
+A,v0_run0,PBPK_v0 Simcyp baseline,auc_within_2fold,85.4,82.9,2,3
+A,v0_run0,PBPK_v0 Simcyp baseline,cmax_within_2fold,73.2,70.7,3,4
+A,s1_run1,S+ physchem,auc_within_2fold,85.4,82.9,0,1
+A,s1_run1,S+ physchem,cmax_within_2fold,70.7,70.7,0,0
+A,s1_run2,+ S+ Fu,auc_within_2fold,85.4,82.9,0,1
+A,s1_run2,+ S+ Fu,cmax_within_2fold,70.7,70.7,0,0
+A,s1_run3,+ S+ VDss,auc_within_2fold,82.9,82.9,1,1
+A,s1_run3,+ S+ VDss,cmax_within_2fold,75.6,70.7,4,6
+B,h1_run0,PBPK_v2 CLint,auc_within_2fold,53.7,82.9,16,4
+B,h1_run0,PBPK_v2 CLint,cmax_within_2fold,70.7,75.6,3,1
+B,h1_run0_noCLr,"PBPK_v2 CLint, CLR = 0",auc_within_2fold,46.3,82.9,18,3
+B,h1_run0_noCLr,"PBPK_v2 CLint, CLR = 0",cmax_within_2fold,70.7,75.6,4,2
+B,h2_run4,PBPK_v3 CLsys,auc_within_2fold,43.9,82.9,17,1
+B,h2_run4,PBPK_v3 CLsys,cmax_within_2fold,68.3,75.6,3,0
+B,h2_run0,PBPK_v4 ML,auc_within_2fold,41.5,82.9,18,1
+B,h2_run0,PBPK_v4 ML,cmax_within_2fold,58.5,75.6,9,2

@@ -1,0 +1,42 @@
+run_id,Drug,Dose,Dose_scaling,Route,Infusion_h,Template_distribution,Template_elimination
+h2_run4,52,0.014,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,172,0.286,NA,I.V. Infusion,2,Minimal PBPK Model,In vivo clearance
+h2_run4,177,0.017,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,184,5,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,295,3.571,NA,I.V. Infusion,0.75,Minimal PBPK Model,In vivo clearance
+h2_run4,308,0.357,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,323,0.714,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,332,0.071,NA,I.V. Infusion,0.5,Minimal PBPK Model,In vivo clearance
+h2_run4,366,0.179,NA,I.V. Infusion,0.5,Minimal PBPK Model,In vivo clearance
+h2_run4,394,0.007,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,413,2.47,NA,I.V. Infusion,1,Minimal PBPK Model,In vivo clearance
+h2_run4,471,7.143,NA,I.V. Infusion,0.5,Minimal PBPK Model,In vivo clearance
+h2_run4,488,0.357,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,637,0.714,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,674,1.429,NA,I.V. Infusion,1,Minimal PBPK Model,In vivo clearance
+h2_run4,703,0.214,NA,I.V. Infusion,0.1667,Minimal PBPK Model,In vivo clearance
+h2_run4,739,0.029,NA,I.V. Infusion,0.0833,Minimal PBPK Model,In vivo clearance
+h2_run4,781,7.143,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,787,1.236,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,800,0.286,NA,I.V. Infusion,0.1667,Minimal PBPK Model,In vivo clearance
+h2_run4,811,0.163,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,832,0.1,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,875,0.036,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,907,0.15,NA,I.V. Infusion,0.25,Minimal PBPK Model,In vivo clearance
+h2_run4,938,0.32,NA,I.V. Infusion,0.5,Minimal PBPK Model,In vivo clearance
+h2_run4,963,3.571,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,967,1.857,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,973,4.286,NA,I.V. Infusion,0.1,Minimal PBPK Model,In vivo clearance
+h2_run4,1001,8.571,NA,I.V. Infusion,1.5,Minimal PBPK Model,In vivo clearance
+h2_run4,1009,0.141,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,1018,40,NA,I.V. Infusion,1,Minimal PBPK Model,In vivo clearance
+h2_run4,1041,4.631,NA,I.V. Infusion,1,Minimal PBPK Model,In vivo clearance
+h2_run4,1094,0.029,NA,I.V. Infusion,0.1,Minimal PBPK Model,In vivo clearance
+h2_run4,1095,0.114,NA,I.V. Infusion,4,Minimal PBPK Model,In vivo clearance
+h2_run4,1197,3,NA,I.V. Infusion,1,Minimal PBPK Model,In vivo clearance
+h2_run4,1245,22.857,NA,I.V. Infusion,0.333,Minimal PBPK Model,In vivo clearance
+h2_run4,1293,0.286,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,1300,0.286,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,1319,3,NA,I.V. Infusion,1,Minimal PBPK Model,In vivo clearance
+h2_run4,1323,0.571,mg/kg,I.V.,NA,Minimal PBPK Model,In vivo clearance
+h2_run4,1341,2.857,NA,I.V. Infusion,1.5,Minimal PBPK Model,In vivo clearance

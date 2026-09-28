@@ -1,0 +1,42 @@
+,compound,clearance_group_v72,clearance_group_v3,ionization_v72,ionization_v3,Vd_bin_v72,VDss_bin_v3,logP_bin_v72,logP_bin_v3
+52,alprazolam,Metabolism-leaning,Metabolism-leaning,Acidic,Neutral at pH 7.4,Mid,Mid (0.7–2),2-4,2–4
+172,bufuralol,Mixed/Other,Mixed/Other,Basic,Base (ionized),Mid,Mid (0.7–2),2-4,2–4
+177,buprenorphine,Metabolism-leaning,Metabolism-leaning,Zwitterion,Ampholyte,High,High (>2),>4,>4
+184,caffeine,Mixed/Other,Mixed/Other,Acidic,Neutral at pH 7.4,Low,Low (<0.7),<2,<2
+295,clarithromycin,Metabolism-leaning,Metabolism-leaning,Basic,Base (ionized),Mid,Mid (0.7–2),<2,<2
+308,clozapine,Mixed/Other,Mixed/Other,Basic,Base (ionized),Mid,Mid (0.7–2),2-4,2–4
+323,crizotinib,Renal-leaning,Renal-leaning,Multiprotic/Other,Base (ionized),High,High (>2),>4,>4
+332,dabigatran,Renal-leaning,Renal-leaning,Zwitterion,Ampholyte,Mid,Mid (0.7–2),<2,<2
+366,desipramine,Renal-leaning,Renal-leaning,Basic,Base (ionized),High,High (>2),>4,>4
+394,digoxin,Uptake/Biliary-influenced,Uptake/Biliary-influenced,Acidic,Neutral at pH 7.4,High,High (>2),<2,<2
+413,docetaxel,Uptake/Biliary-influenced,Uptake/Biliary-influenced,Acidic,Neutral at pH 7.4,High,High (>2),2-4,2–4
+471,erythromycin,Metabolism-leaning,Metabolism-leaning,Basic,Base (ionized),Mid,Mid (0.7–2),2-4,2–4
+488,etoricoxib,Mixed/Other,Mixed/Other,Acidic,Neutral at pH 7.4,High,Mid (0.7–2),2-4,2–4
+637,imipramine,Mixed/Other,Mixed/Other,Basic,Base (ionized),High,High (>2),>4,>4
+674,itraconazole,Metabolism-leaning,Metabolism-leaning,Acidic,Neutral at pH 7.4,High,High (>2),>4,>4
+703,lansoprazole,Mixed/Other,Mixed/Other,Acidic,Neutral at pH 7.4,High,Low (<0.7),2-4,2–4
+739,lorazepam,Mixed/Other,Mixed/Other,Zwitterion,Ampholyte,Mid,Mid (0.7–2),2-4,2–4
+781,metformin,Renal-leaning,Renal-leaning,Basic,Base (ionized),Mid,Low (<0.7),<2,<2
+787,methotrexate,Metabolism-leaning,Metabolism-leaning,Multiprotic/Other,Neutral at pH 7.4,High,Low (<0.7),<2,<2
+800,metoprolol,Mixed/Other,Mixed/Other,Basic,Base (ionized),High,High (>2),<2,<2
+811,midazolam,Metabolism-leaning,Metabolism-leaning,Neutral/Other,Neutral at pH 7.4,Mid,Mid (0.7–2),2-4,2–4
+832,montelukast,Mixed/Other,Mixed/Other,Acidic,Acid (ionized),High,Low (<0.7),>4,>4
+875,nifedipine,Metabolism-leaning,Metabolism-leaning,Acidic,Neutral at pH 7.4,Mid,Mid (0.7–2),2-4,2–4
+907,ondansetron,Mixed/Other,Mixed/Other,Basic,Neutral at pH 7.4,High,Mid (0.7–2),2-4,2–4
+938,paroxetine,Mixed/Other,Mixed/Other,Basic,Base (ionized),High,High (>2),2-4,2–4
+963,phenacetin,Mixed/Other,Mixed/Other,Acidic,Neutral at pH 7.4,Mid,Mid (0.7–2),<2,<2
+967,phenobarbital,Mixed/Other,Mixed/Other,Basic,Acid (ionized),Low,Low (<0.7),<2,<2
+973,phenytoin,Mixed/Other,Mixed/Other,Basic,Neutral at pH 7.4,Low,Low (<0.7),2-4,2–4
+1001,posaconazole,Uptake/Biliary-influenced,Uptake/Biliary-influenced,Multiprotic/Other,Neutral at pH 7.4,High,High (>2),>4,>4
+1009,pravastatin,Uptake/Biliary-influenced,Uptake/Biliary-influenced,Acidic,Acid (ionized),Low,Low (<0.7),2-4,2–4
+1018,probenecid,Mixed/Other,Mixed/Other,Acidic,Acid (ionized),Low,Low (<0.7),2-4,2–4
+1041,quinidine,Metabolism-leaning,Metabolism-leaning,Multiprotic/Other,Base (ionized),High,High (>2),2-4,2–4
+1094,rosiglitazone,Mixed/Other,Mixed/Other,Zwitterion,Ampholyte,Low,Low (<0.7),2-4,2–4
+1095,rosuvastatin,Uptake/Biliary-influenced,Uptake/Biliary-influenced,Acidic,Acid (ionized),Mid,Mid (0.7–2),2-4,2–4
+1197,tenofovir,Mixed/Other,Mixed/Other,Multiprotic/Other,Neutral at pH 7.4,High,Mid (0.7–2),<2,<2
+1245,tolbutamide,Mixed/Other,Mixed/Other,Neutral/Other,Acid (ionized),Low,Low (<0.7),2-4,2–4
+1293,valsartan,Uptake/Biliary-influenced,Uptake/Biliary-influenced,Multiprotic/Other,Neutral at pH 7.4,Low,Low (<0.7),2-4,2–4
+1300,verapamil,Metabolism-leaning,Metabolism-leaning,Basic,Base (ionized),High,High (>2),2-4,2–4
+1319,voriconazole,Mixed/Other,Mixed/Other,Acidic,Neutral at pH 7.4,High,High (>2),<2,<2
+1323,warfarin,Mixed/Other,Mixed/Other,Neutral/Other,Acid (ionized),Low,Low (<0.7),2-4,2–4
+1341,zidovudine,Renal-leaning,Renal-leaning,Basic,Neutral at pH 7.4,Mid,Mid (0.7–2),<2,<2

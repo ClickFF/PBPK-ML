@@ -1,0 +1,24 @@
+run_id,enabled,input_csv,wksz_dir,overrides,test_drugs,note
+v0_run0,FALSE,re_run_inputs/tables/v0_run0_adme_key_inputs.csv,wksz_v0_library,,,"PBPK_v0 Simcyp baseline: library files as shipped, nothing applied; needs its own wksz folder"
+v1_run0,TRUE,re_run_inputs/tables/v1_run0_adme_key_inputs.csv,wksz_tier1_minimal,,,"PBPK_v1 minimal control: observed Fu, Vss, CLsys"
+v1_run4,FALSE,re_run_inputs/tables/v1_run4_adme_key_inputs.csv,wksz_v1_run4,,,full control: TEMPLATE-defined distribution (library Kp scalars); needs its own wksz folder
+s1_run1,TRUE,re_run_inputs/tables/s1_run1_adme_key_inputs.csv,wksz_tier1_minimal,,,sensitivity: S+ physchem only
+s1_run2,TRUE,re_run_inputs/tables/s1_run2_adme_key_inputs.csv,wksz_tier1_minimal,,,sensitivity: + S+ Fu
+s1_run3,TRUE,re_run_inputs/tables/s1_run3_adme_key_inputs.csv,wksz_tier1_minimal,,,sensitivity: + S+ Vss
+h1_run0,TRUE,re_run_inputs/tables/h1_run0_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,"PBPK_V2_CLint: S+ HLM CLint, template CLRbase retained | route confirmed by probe 3 (ClearanceSwitch=1 + WOMC_CLintType1=2)"
+h1_run1,TRUE,re_run_inputs/tables/h1_run1_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,"bottom-up full, Kp 0, template CLRbase | route confirmed by probe 3 (ClearanceSwitch=1 + WOMC_CLintType1=2)"
+h1_run2,TRUE,re_run_inputs/tables/h1_run2_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,"bottom-up full, Kp 1, template CLRbase | route confirmed by probe 3 (ClearanceSwitch=1 + WOMC_CLintType1=2)"
+h1_run3,TRUE,re_run_inputs/tables/h1_run3_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,"bottom-up full, Kp 2, template CLRbase | route confirmed by probe 3 (ClearanceSwitch=1 + WOMC_CLintType1=2)"
+h1_run0_noCLr,TRUE,re_run_inputs/tables/h1_run0_noCLr_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,"as h1_run0, CLRbase = 0 | route confirmed by probe 3 (ClearanceSwitch=1 + WOMC_CLintType1=2)"
+h1_run1_noCLr,TRUE,re_run_inputs/tables/h1_run1_noCLr_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,"as h1_run1, CLRbase = 0 | route confirmed by probe 3 (ClearanceSwitch=1 + WOMC_CLintType1=2)"
+h1_run2_noCLr,TRUE,re_run_inputs/tables/h1_run2_noCLr_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,"as h1_run2, CLRbase = 0 | route confirmed by probe 3 (ClearanceSwitch=1 + WOMC_CLintType1=2)"
+h1_run3_noCLr,TRUE,re_run_inputs/tables/h1_run3_noCLr_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,"as h1_run3, CLRbase = 0 | route confirmed by probe 3 (ClearanceSwitch=1 + WOMC_CLintType1=2)"
+h2_run4,TRUE,re_run_inputs/tables/h2_run4_adme_key_inputs.csv,wksz_tier1_minimal,,,"PBPK_V3_CLsys: S+ Fu, S+ Vss, ML CLsys"
+h2_run0,TRUE,re_run_inputs/tables/h2_run0_adme_key_inputs.csv,wksz_tier1_minimal,,,"PBPK_V4_ML: ML Fu, ML Vss, ML CLsys"
+h2_run1,TRUE,re_run_inputs/tables/h2_run1_adme_key_inputs.csv,wksz_tier1_minimal,,,"top-down full, Kp 0"
+h2_run2,TRUE,re_run_inputs/tables/h2_run2_adme_key_inputs.csv,wksz_tier1_minimal,,,"top-down full, Kp 1"
+h2_run3,TRUE,re_run_inputs/tables/h2_run3_adme_key_inputs.csv,wksz_tier1_minimal,,,"top-down full, Kp 2"
+h3_run0,FALSE,re_run_inputs/tables/h3_run0_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,option c: ML CLsys -> retrograde CLint via whole-organ route | disabled until calibrate_h3_clint.R has run
+h3_run1,FALSE,re_run_inputs/tables/h3_run1_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,option c | disabled until calibrate_h3_clint.R has run
+h3_run2,FALSE,re_run_inputs/tables/h3_run2_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,option c | disabled until calibrate_h3_clint.R has run
+h3_run3,FALSE,re_run_inputs/tables/h3_run3_adme_key_inputs.csv,wksz_tier1_minimal,,52;1009;1001,option c | disabled until calibrate_h3_clint.R has run

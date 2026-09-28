@@ -1,0 +1,45 @@
+group,arm_id,run_id,label,reference,endpoint,endpoint_label,family,n,estimate,ci_low,ci_high,p,n_worse,n_better,p_holm,detectable,direction
+A,A1,v0_run0,PBPK_v0 Simcyp baseline,v1_run0,log_NRMSE,"C–T profile, log-NRMSE",profile,40,0.00075,-0.03370,0.04148,0.93115,17,23,0.93115,False,none
+A,A4,s1_run1,S+ physchem,v1_run0,log_NRMSE,"C–T profile, log-NRMSE",profile,40,0.00009,0.00000,0.00119,0.04816,27,13,0.14449,True,worse
+A,A5,s1_run2,+ S+ Fu,v1_run0,log_NRMSE,"C–T profile, log-NRMSE",profile,40,0.00009,0.00000,0.00122,0.05481,26,14,0.14449,True,worse
+A,A6,s1_run3,+ S+ VDss,v1_run0,log_NRMSE,"C–T profile, log-NRMSE",profile,40,0.01973,0.00459,0.03662,0.01527,26,14,0.06107,True,worse
+A,A1,v0_run0,PBPK_v0 Simcyp baseline,v1_run0,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,-0.01032,-0.05863,0.04651,0.68151,17,24,0.68151,False,none
+A,A4,s1_run1,S+ physchem,v1_run0,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,0.00013,0.00001,0.00165,0.04102,28,13,0.11529,True,worse
+A,A5,s1_run2,+ S+ Fu,v1_run0,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,0.00013,0.00001,0.00165,0.03843,27,14,0.11529,True,worse
+A,A6,s1_run3,+ S+ VDss,v1_run0,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,0.03112,0.00778,0.05837,0.00724,27,14,0.02894,True,worse
+A,A1,v0_run0,PBPK_v0 Simcyp baseline,v1_run0,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,-0.03522,-0.17017,0.10313,0.65348,17,24,1.00000,False,none
+A,A4,s1_run1,S+ physchem,v1_run0,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,0.00010,-0.00021,0.00685,0.46417,23,18,1.00000,False,none
+A,A5,s1_run2,+ S+ Fu,v1_run0,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,0.00010,-0.00016,0.00690,0.42575,23,18,1.00000,False,none
+A,A6,s1_run3,+ S+ VDss,v1_run0,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,0.05353,-0.02866,0.13541,0.24639,22,19,0.98555,False,none
+A,A1,v0_run0,PBPK_v0 Simcyp baseline,v1_run0,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,-0.04070,-0.27678,0.14344,0.64424,24,17,1.00000,False,none
+A,A4,s1_run1,S+ physchem,v1_run0,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,-0.00018,-0.00145,0.00065,0.60783,18,23,1.00000,False,none
+A,A5,s1_run2,+ S+ Fu,v1_run0,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,-0.00014,-0.00145,0.00055,0.65348,18,23,1.00000,False,none
+A,A6,s1_run3,+ S+ VDss,v1_run0,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,0.18977,-0.03392,0.40513,0.09750,28,13,0.39000,False,none
+B,B2,h1_run0,PBPK_v2 CLint,s1_run3,log_NRMSE,"C–T profile, log-NRMSE",profile,40,0.06305,0.02861,0.14804,0.00040,30,10,0.00080,True,worse
+B,B3,h1_run0_noCLr,"PBPK_v2 CLint, CLR = 0",s1_run3,log_NRMSE,"C–T profile, log-NRMSE",profile,40,0.07646,0.02765,0.17245,0.00071,29,11,0.00080,True,worse
+B,B4,h2_run4,PBPK_v3 CLsys,s1_run3,log_NRMSE,"C–T profile, log-NRMSE",profile,40,0.07406,0.04268,0.14576,0.00000,36,4,0.00000,True,worse
+B,B5,h2_run0,PBPK_v4 ML,s1_run3,log_NRMSE,"C–T profile, log-NRMSE",profile,40,0.09909,0.05625,0.15493,0.00001,33,7,0.00002,True,worse
+B,B2,h1_run0,PBPK_v2 CLint,s1_run3,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,0.11305,0.04787,0.21902,0.00026,31,10,0.00051,True,worse
+B,B3,h1_run0_noCLr,"PBPK_v2 CLint, CLR = 0",s1_run3,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,0.14355,0.05611,0.25213,0.00060,30,11,0.00060,True,worse
+B,B4,h2_run4,PBPK_v3 CLsys,s1_run3,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,0.12487,0.07654,0.18664,0.00000,37,4,0.00000,True,worse
+B,B5,h2_run0,PBPK_v4 ML,s1_run3,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,0.15350,0.10158,0.20985,0.00000,35,6,0.00001,True,worse
+B,B2,h1_run0,PBPK_v2 CLint,s1_run3,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,0.49366,0.24674,0.80308,0.00018,32,9,0.00018,True,worse
+B,B3,h1_run0_noCLr,"PBPK_v2 CLint, CLR = 0",s1_run3,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,0.63827,0.27095,0.97787,0.00005,34,7,0.00011,True,worse
+B,B4,h2_run4,PBPK_v3 CLsys,s1_run3,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,0.56245,0.34962,0.81171,0.00000,35,6,0.00000,True,worse
+B,B5,h2_run0,PBPK_v4 ML,s1_run3,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,0.63675,0.40580,0.88530,0.00000,33,8,0.00000,True,worse
+B,B2,h1_run0,PBPK_v2 CLint,s1_run3,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,0.02173,-0.00899,0.06541,0.15553,25,16,0.31107,False,none
+B,B3,h1_run0_noCLr,"PBPK_v2 CLint, CLR = 0",s1_run3,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,0.00708,-0.01866,0.05350,0.59887,21,20,0.59887,False,none
+B,B4,h2_run4,PBPK_v3 CLsys,s1_run3,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,0.01771,-0.00215,0.06945,0.10020,26,15,0.30060,False,none
+B,B5,h2_run0,PBPK_v4 ML,s1_run3,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,0.26011,0.01472,0.49958,0.03719,23,18,0.14876,True,worse
+C,C,h1_run0_noCLr,bottom-up CLint (CLR = 0) vs top-down CLsys,h2_run4,log_NRMSE,"C–T profile, log-NRMSE",profile,40,-0.00006,-0.03979,0.06849,1.00000,18,22,1.00000,False,none
+C,C,h1_run0,bottom-up CLint (template CLR) vs top-down CLsys,h2_run4,log_NRMSE,"C–T profile, log-NRMSE",profile,40,-0.01431,-0.04923,0.02725,0.52721,16,24,1.00000,False,none
+C,C,h2_run0,all-ML inputs vs top-down CLsys,h2_run4,log_NRMSE,"C–T profile, log-NRMSE",profile,40,0.00928,-0.00715,0.03014,0.25349,23,17,0.76048,False,none
+C,C,h1_run0_noCLr,bottom-up CLint (CLR = 0) vs top-down CLsys,h2_run4,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,0.01534,-0.05128,0.10878,0.69096,18,23,1.00000,False,none
+C,C,h1_run0,bottom-up CLint (template CLR) vs top-down CLsys,h2_run4,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,-0.00727,-0.06507,0.06241,0.87775,16,25,1.00000,False,none
+C,C,h2_run0,all-ML inputs vs top-down CLsys,h2_run4,rmse_log10,"C–T profile, RMSE (log$_{10}$)",profile,41,0.01025,-0.01560,0.04066,0.45634,23,18,1.00000,False,none
+C,C,h1_run0_noCLr,bottom-up CLint (CLR = 0) vs top-down CLsys,h2_run4,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,0.06334,-0.20878,0.30261,0.69096,20,21,0.94416,False,none
+C,C,h1_run0,bottom-up CLint (template CLR) vs top-down CLsys,h2_run4,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,-0.08252,-0.28796,0.13244,0.47208,17,24,0.94416,False,none
+C,C,h2_run0,all-ML inputs vs top-down CLsys,h2_run4,fe_auc_abs,"AUC, |log$_2$ FE|",exposure,41,0.05254,-0.02135,0.13564,0.17969,24,17,0.53906,False,none
+C,C,h1_run0_noCLr,bottom-up CLint (CLR = 0) vs top-down CLsys,h2_run4,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,0.00619,-0.01849,0.03502,0.59887,22,19,1.00000,False,none
+C,C,h1_run0,bottom-up CLint (template CLR) vs top-down CLsys,h2_run4,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,-0.00006,-0.02433,0.02402,1.00000,21,20,1.00000,False,none
+C,C,h2_run0,all-ML inputs vs top-down CLsys,h2_run4,fe_cmax_abs,"C$_{max}$, |log$_2$ FE|",exposure,41,0.17883,-0.04852,0.41450,0.11458,21,20,0.34375,False,none

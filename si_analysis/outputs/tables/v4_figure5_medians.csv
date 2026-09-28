@@ -1,0 +1,37 @@
+scenario,label,endpoint,n,median,median_fold
+v0_run0,Simcyp library model,log_NRMSE,40,0.1643,
+v1_run0,Observed-input control,log_NRMSE,40,0.1702,
+s1_run1,S+ physicochemical inputs,log_NRMSE,40,0.1703,
+s1_run2,S+ physicochemical inputs + Fu,log_NRMSE,40,0.1703,
+s1_run3,S+ physicochemical inputs + Fu + VDss,log_NRMSE,40,0.1797,
+h1_run0,S+ CLint + template renal CL,log_NRMSE,40,0.2738,
+h1_run0_noCLr,"S+ CLint, renal CL = 0",log_NRMSE,40,0.3018,
+h2_run4,DL–ML total CL,log_NRMSE,40,0.2619,
+h2_run0,"DL–ML Fu, VDss, and CL",log_NRMSE,40,0.2873,
+v0_run0,Simcyp library model,rmse_log10,41,0.2488,
+v1_run0,Observed-input control,rmse_log10,41,0.3024,
+s1_run1,S+ physicochemical inputs,rmse_log10,41,0.3023,
+s1_run2,S+ physicochemical inputs + Fu,rmse_log10,41,0.3023,
+s1_run3,S+ physicochemical inputs + Fu + VDss,rmse_log10,41,0.3093,
+h1_run0,S+ CLint + template renal CL,rmse_log10,41,0.4581,
+h1_run0_noCLr,"S+ CLint, renal CL = 0",rmse_log10,41,0.5062,
+h2_run4,DL–ML total CL,rmse_log10,41,0.4179,
+h2_run0,"DL–ML Fu, VDss, and CL",rmse_log10,41,0.4781,
+v0_run0,Simcyp library model,fe_auc_rel,41,0.0960,1.0688
+v1_run0,Observed-input control,fe_auc_rel,41,0.3114,1.2409
+s1_run1,S+ physicochemical inputs,fe_auc_rel,41,0.3456,1.2707
+s1_run2,S+ physicochemical inputs + Fu,fe_auc_rel,41,0.3456,1.2707
+s1_run3,S+ physicochemical inputs + Fu + VDss,fe_auc_rel,41,0.3461,1.2712
+h1_run0,S+ CLint + template renal CL,fe_auc_rel,41,0.1622,1.1190
+h1_run0_noCLr,"S+ CLint, renal CL = 0",fe_auc_rel,41,0.4377,1.3545
+h2_run4,DL–ML total CL,fe_auc_rel,41,0.4640,1.3794
+h2_run0,"DL–ML Fu, VDss, and CL",fe_auc_rel,41,0.4170,1.3351
+v0_run0,Simcyp library model,fe_cmax_rel,41,-0.2838,0.8214
+v1_run0,Observed-input control,fe_cmax_rel,41,-0.3965,0.7597
+s1_run1,S+ physicochemical inputs,fe_cmax_rel,41,-0.3963,0.7598
+s1_run2,S+ physicochemical inputs + Fu,fe_cmax_rel,41,-0.3963,0.7598
+s1_run3,S+ physicochemical inputs + Fu + VDss,fe_cmax_rel,41,-0.4726,0.7207
+h1_run0,S+ CLint + template renal CL,fe_cmax_rel,41,-0.4836,0.7152
+h1_run0_noCLr,"S+ CLint, renal CL = 0",fe_cmax_rel,41,-0.4807,0.7166
+h2_run4,DL–ML total CL,fe_cmax_rel,41,-0.4784,0.7178
+h2_run0,"DL–ML Fu, VDss, and CL",fe_cmax_rel,41,-0.6068,0.6566

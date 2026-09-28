@@ -1,0 +1,7 @@
+scenario,endpoint,n,median,n_over_2fold,n_under_2fold,n_within_2fold
+h1_run0,fe_auc_rel,41,0.1622,10,9,22
+h1_run0,fe_cmax_rel,41,-0.4836,1,11,29
+h1_run0_noCLr,fe_auc_rel,41,0.4377,14,8,19
+h1_run0_noCLr,fe_cmax_rel,41,-0.4807,2,10,29
+h2_run4,fe_auc_rel,41,0.4640,16,7,18
+h2_run4,fe_cmax_rel,41,-0.4784,3,10,28

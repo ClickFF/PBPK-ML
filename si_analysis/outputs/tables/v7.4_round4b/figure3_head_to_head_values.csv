@@ -1,0 +1,13 @@
+group,endpoint,source,n,MAE,RMSE,GMFE,R2,FE2
+A,Fu,prediction file,633.0000,0.3404,0.4712,2.1897,0.6625,58.1359
+C,Fu,prediction file,633.0000,0.3420,0.4593,2.1979,0.6794,58.2938
+D,Fu,prediction file,633.0000,0.3418,0.4628,2.1967,0.6744,57.3460
+A,CL,prediction file,177.0000,0.2997,0.4088,1.9938,0.5051,64.9718
+C,CL,prediction file,177.0000,0.3184,0.4278,2.0817,0.4579,59.3220
+D,CL,prediction file,177.0000,0.3146,0.4248,2.0634,0.4655,61.5819
+A,VDss,prediction file,177.0000,0.2793,0.3591,1.9025,0.5780,64.4068
+C,VDss,prediction file,177.0000,0.2818,0.3593,1.9133,0.5774,59.3220
+D,VDss,prediction file,177.0000,0.2805,0.3650,1.9075,0.5640,59.3220
+B,Fu,literature (reported),,0.3000,0.4100,2.0100,0.6900,60.0000
+B,CL,literature (reported),,0.3100,0.4200,2.0000,0.4800,64.0000
+B,VDss,literature (reported),,0.2800,0.3500,1.8800,0.6000,62.0000

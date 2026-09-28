@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "PBPK-ML: graph-based molecular embeddings for hybrid ML-PBPK modeling"
+abstract: >-
+  Code, trained encoders, data and analysis for a study combining graph attention (AttentiveFP)
+  molecular embeddings with RDKit descriptors to predict human fraction unbound, systemic clearance
+  and steady-state volume of distribution, and for the evaluation of those predictions as inputs to
+  physiologically based pharmacokinetic simulations in Simcyp.
+type: software
+authors:
+  - family-names: Cai
+    given-names: Lianjin
+  - family-names: Badkul
+    given-names: Amitesh
+  - family-names: Zhai
+    given-names: Jingchen
+  - family-names: McWilliams
+    given-names: Mai
+  - family-names: Xie
+    given-names: Lei
+  - family-names: Wang
+    given-names: Junmei
+repository-code: "https://github.com/ClickFF/PBPK-ML"
+license: BSD-3-Clause
+preferred-citation:
+  type: article
+  title: >-
+    Graph-Based Molecular Embeddings for Hybrid ML-PBPK Modeling and Systematic Evaluation of
+    Clearance Parameterization
+  journal: "Journal of Chemical Information and Modeling"
+  authors:
+    - family-names: Cai
+      given-names: Lianjin
+    - family-names: Badkul
+      given-names: Amitesh
+    - family-names: Zhai
+      given-names: Jingchen
+    - family-names: McWilliams
+      given-names: Mai
+    - family-names: Xie
+      given-names: Lei
+    - family-names: Wang
+      given-names: Junmei

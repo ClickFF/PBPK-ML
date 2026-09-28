@@ -1,0 +1,6 @@
+predictor,parameter,n,within_2fold_pct,within_3fold_pct,gmfe,afe_bias
+S+,Fu,41,65.854,80.488,1.886,1.163
+S+,VDss,41,63.415,87.805,1.862,0.952
+DL-ML,Fu,41,70.732,80.488,1.865,0.949
+DL-ML,VDss,41,56.098,70.732,2.101,1.137
+DL-ML,CLsys,41,53.659,65.854,2.433,0.912
