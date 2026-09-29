@@ -65,7 +65,6 @@ clearance.](docs/toc_graphic.png)
   columns, with a dictionary giving the source of each column), and a convenience copy of the
   Supporting Information; the version published by the journal governs.
 - `environment/` — pinned specifications for both environments.
-- `superseded_v7.2/` — one legacy table, kept only because the Data S3 dictionary cites its path.
 - `MANIFEST.csv` — the sha256 of every file in the repository.
 
 ## Data availability

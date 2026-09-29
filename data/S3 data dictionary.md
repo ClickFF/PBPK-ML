@@ -1,7 +1,7 @@
 # `Data S3 compound-level analysis dataset.csv` — data dictionary and provenance
 
-Replaces `pbpk_physchem_mechanistic_master.csv` (v7.2 Data S3; archived unchanged in the code repository under
-`superseded_v7.2/pbpk_evaluation_analysis/`). One row per PBPK compound (41), ordered by name, built by
+Replaces `pbpk_physchem_mechanistic_master.csv` (v7.2 Data S3), which is kept in the authors' archive and is not
+redistributed here. One row per PBPK compound (41), ordered by name, built by
 `si_analysis/analysis/12_mechanistic_strata.py` in the code repository. Every column has exactly one source; no column is copied
 from a merged `_s2` field.
 
